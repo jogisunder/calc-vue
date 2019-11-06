@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b11c2705528979a32cc",
+    "revision": "233ee217bfcf1075d16c",
     "url": "/calc-vue/css/app.bd2b488d.css"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calc-vue/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "541bc9fc26a65ed18fd7a8ccdb3afd7a",
+    "revision": "3bc017e06f9156e14a080595e28e9fe7",
     "url": "/calc-vue/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calc-vue/js/about.809ab3df.js"
   },
   {
-    "revision": "3b11c2705528979a32cc",
-    "url": "/calc-vue/js/app.bf69063b.js"
+    "revision": "233ee217bfcf1075d16c",
+    "url": "/calc-vue/js/app.4a6fc025.js"
   },
   {
     "revision": "9ee4ca373c4686ddd9fa",
